@@ -1,0 +1,34 @@
+
+body{
+    height:100vh;
+    background: linear-gradient(to bottom left,rgba(30,23,52), rgba(234,89,137) );
+}
+h1{
+    text-align: center;
+    margin:30px auto;
+}
+.container{
+    width:50%;
+    height:50%;
+    background-color: #FEFDE2;
+    border-radius: 50px;
+    margin:0 auto;
+    display:flex;
+}
+.img-side{
+    border-radius: 50px;
+    width:100%;
+    background-image: url("images/space1.png");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.form-side{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    
+}
