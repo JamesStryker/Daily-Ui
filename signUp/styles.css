@@ -1,0 +1,32 @@
+body{
+    background-color: #1E1735;
+}
+header{
+    text-align: center;
+    color:#FEFDE2;
+}
+.main{
+    background-color: #FEFDE2;
+    border-radius: 50px;
+    height:80vh;
+    padding:20px;
+}
+.container{
+    max-width:60vw;
+}
+.img{
+    height:100%;
+}
+.form-control{
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   background-color: #FEFDE2;
+   box-shadow: none;
+}
+.signIn{
+    background-color: #F6A522;
+}
+.signUp{
+    background-color: #E95682;
+}
